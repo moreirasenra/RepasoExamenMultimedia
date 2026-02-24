@@ -1,0 +1,17 @@
+[
+{
+"actividad":"Paseo",
+"grupo":1,
+"personas":10
+},
+{
+"actividad":"Escalada",
+"grupo":2,
+"personas":15
+}.
+{
+"actividad":"Rapel",
+"grupo":3,
+"personas":5
+}
+]
